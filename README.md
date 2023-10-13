@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![image](/image/self-portrait.jpg)
+
 About!
 
 Hello! I'm Cecilie, a 30-year-old front-end developer who's currently halfway through my journey of studying front-end. I'm on a mission to create visually stunning and user-friendly websites that leave a lasting impression.
