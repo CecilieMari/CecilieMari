@@ -10,6 +10,9 @@ My passion for web development was sparked a while back, and as I've progressed 
 
 As I continue my studies and approach the finish line, I'm excited to take on new challenges and opportunities in the world of web development. If you have any questions or are interested in collaborating on a project, please don't hesitate to reach out. I'm always eager to connect with like-minded individuals who share a passion for front-end design.
 
+- 📫 How to reach me: cecilieogco@gmail.com
+- SoMe: https://www.instagram.com/ceciliemarim/
+
 <!--
 **CecilieMari/CecilieMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
