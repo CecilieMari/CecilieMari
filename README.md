@@ -4,12 +4,16 @@
 
 About!
 
-Hello! I'm Cecilie, a 30-year-old front-end student who's currently halfway through my journey of studying front-end. I'm on a mission to create visually and user-friendly websites.
+Hello! I'm Cecilie, a 30-year-old front-end student who's
+currently halfway through my journey of studying front-end.
+I'm on a mission to create visually and user-friendly
+websites.
 
-My passion for web development started a while back,
-and as I've progressed through my studies, I have worked with
-HTML, CSS and JavaScript. It's been an exciting and rewarding journey,
-and I can't wait to see where it takes me next.
+My passion for web development started a while back when I studieding
+graphic design,after a year, I chose to change my field of study to
+front-end. but after working through my studies I have worked with
+HTML, CSS and JavaScript. It's been an exciting and a rewarding journey,
+and I can't wait to see where it wil takes me next.
 
 As I continue my studies and approach the finish line, I'm excited to take on new challenges and opportunities in the world of web development.
 
